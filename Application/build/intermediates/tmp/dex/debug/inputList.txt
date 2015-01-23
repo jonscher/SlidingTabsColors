@@ -1,0 +1,4 @@
+C:\Users\jonathan\Desktop\chat_master android\chat-masterfinalcours12122014 - Copie\SlidingTabsColors\Application\build\intermediates\classes\debug
+C:\Users\jonathan\Desktop\chat_master android\chat-masterfinalcours12122014 - Copie\SlidingTabsColors\Application\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-63749a3cacf5a7db35eff80fd4747ba34dbb8d54.jar
+C:\Users\jonathan\Desktop\chat_master android\chat-masterfinalcours12122014 - Copie\SlidingTabsColors\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-5d060724de34b9f36ed5d339e4b3c8ef615a00ed.jar
+C:\Users\jonathan\Desktop\chat_master android\chat-masterfinalcours12122014 - Copie\SlidingTabsColors\Application\build\intermediates\pre-dexed\debug\classes-53a0ae7878f9273c3c269247dd979fefd1b03d6e.jar
